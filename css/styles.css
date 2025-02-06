@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/magnolia-script');
+
+body{
+    font-family: "Epilogue",sans-serif;
+}
+
+.padding-btn{
+    padding-top: 70px;
+    padding-bottom: 160px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.padding-btn-in{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.navegacion{
+    background-color: #2b2b2b;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.custom-container{
+    max-width: 1200px;
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 500;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: 500;
+    color: #2b2b2b;
+}
+
+.nav-link{
+    color: #ffffff;
+}
+.title_homepage_header{
+    padding: 160px;
+    padding-left: 101px;
+    padding-right: 220px;
+    padding-bottom: 0px;
+}
+
+.info_homepage_header{
+    padding-left: 90px;
+}
+
+.homepage_header{
+    padding-left: 90px;
+    padding-top: 90px;
+}
+
+.homepage_header3{
+    padding-left: 90px;
+    padding-top: 60px;
+}
+
+.homepage_header3-1{
+    padding-left: 160px;
+    padding-top: 60px;
+}
+
+.homepage_header4{
+    padding-left: 350px;
+    padding-top: 60px;
+}
+
+.homepage_header4-1{
+    margin-left: 250px;
+    padding-top: 60px;
+}
+
+.homepage_header_noticia{
+    padding-top: 40px;
+}
+
+.homepage_header2{
+    padding-left: 168px;
+    padding-top: 90px;
+}
+
+.homepage_footer{
+    padding-left: 90px;
+}
+
+.nav-link.active{
+    color: #ffffff;
+    border-bottom: solid #ffffff 4px;
+    border-radius: 2px;
+}
+
+.btn-img{
+    color: #1976D2;
+    font-size: 13px;
+}
+
+.btn-img:hover{
+    background-color: #F6FAFD;
+}
+
+.btn-grande{
+    color: #ffffff;
+    background-color: #1976D2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-grande:hover{
+    background-color: #1565C0;
+    color: #ffffff;
+}
+
+.btn-contacte{
+    color: #363636;
+    background-color: #FFF1D3;
+    margin-left: 7px;
+}
+
+.btn-contacte:hover{
+    background-color: #f2e4c9;
+    color: #363636;
+}
+
+.email-address-contacte{
+    border: 2px;
+    border-radius: 5px;
+    border-color: #FFF1D3;
+    border-style: solid;
+    width: 80%;
+    margin-left: 14vh;
+}
+
+.contacte{
+    width: 80%;
+    margin-left: 14vh;
+}
+
+.email-address-contacte2{
+    border: 2px;
+    border-radius: 5px;
+    border-color: #FFF1D3;
+    border-style: solid;
+    width: 80%;
+    height: 100px;
+    margin-left: 14vh;
+}
+
+.email-address{
+    border: 1px;
+    border-radius: 5px;
+    border-color: #C4C4C4;
+    border-style: solid;
+}
+
+.grey{
+    color: #AAAAAA;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.grey2{
+    color: #909090;
+    font-weight: 400;
+    size: 16px;
+    line-height: 24px;
+}
+
+.grey3{
+    color: #AAAAAA;
+    font-size: 60px;
+    font-weight: 300;
+}
+
+.anima{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+}
+.learn_more{
+    font-family: "Inter",sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.spacing{
+    letter-spacing: 1px
+}
+
+.p_header{
+    color: #8A8A8A;
+}
+
+.px_default{
+    width: 1000px;
+    height: 594px;
+}
+
+.weight{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.weight2{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.margin-footer{
+    margin-bottom: 100px;
+    letter-spacing: 10px;
+}
+
+.width-img{
+    width: 900px;
+}
+
+.px45{
+    font-size: 45px;
+    line-height: 65px;
+}
+
+.line-height{
+    line-height: 36px;
+    font-size: 24px;
+}
+
+.border-radius{
+    border-radius: 40px;
+}
+
+#showcase{
+    background-image: url(../img/contacte.png);
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3em;
+}
