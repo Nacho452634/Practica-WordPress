@@ -11,3 +11,11 @@ function nrb_add_theme_scripts(){
 }
 
 add_action('wp_enqueue_scripts', 'nrb_add_theme_scripts' );
+
+add_theme_support( 'post-thumbnails' );
+
+function nrb_register_my_menu(){
+    register_nav_menu( 'primary', __('Menú de la capçelera') );
+}
+
+add_action( 'init', 'nrb_register_my_menu' );
