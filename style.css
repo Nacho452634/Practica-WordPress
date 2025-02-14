@@ -248,3 +248,11 @@ h2{
     justify-content: center;
     font-size: 1.3em;
 }
+
+.new-title{
+    font-size: 29px;
+    text-align: left;
+    font-weight: 600;
+    color: #333;
+    text-decoration: none;
+}
