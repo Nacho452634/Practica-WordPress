@@ -7,7 +7,7 @@
         <div class="row">
             <div class="title_homepage_header">
                 <h2 class="mb-4 spacing">Today's picks</h2>
-                <img src="img/culture.png" alt="">
+                <img src="/wp-content/themes/NRB/img/culture.png" alt="">
             </div>
             <div class="info_homepage_header">
                 <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">

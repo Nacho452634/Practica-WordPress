@@ -2,7 +2,7 @@
 
 
 function nrb_add_theme_scripts(){
-    wp_enqueue_style ( 'style', get_stylesheet_uri() );
+    wp_enqueue_style ( 'style', get_stylesheet_uri(). '?v=1.0.00');
     wp_enqueue_style( 'boostrap_css', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css' );
     wp_enqueue_script( 'script', 'assets/script.js' );
     wp_enqueue_script( 'boostrap_js', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js' );

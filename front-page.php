@@ -7,11 +7,11 @@
         <div class="row">
             <div class="title_homepage_header col-12 col-md-6">
                     <h2 class="mb-4 spacing">Today's picks</h2>
-                    <img class="" src="img/Image placeholder (1).png" alt="">
+                    <img class="" src="wp-content/themes/NRB/img/Image placeholder (1).png" alt="">
             </div>
             <div class="info_homepage_header">
                 <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                    <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                    <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                 </button>
             </div>
             <div class="info_homepage_header ms-2">
@@ -30,10 +30,10 @@
     <!--DIV Header-->
         <div class="row">
             <div class="info_homepage_header col-12 col-md-6 pb-5 border-bottom border-1">
-                <img src="img/Image placeholder.png" alt="" >
+                <img src="wp-content/themes/NRB/img/Image placeholder.png" alt="" >
                 <div>
                     <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                        <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                        <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                     </button>
                 </div>
                 <div>
@@ -41,17 +41,17 @@
                     <p class="m-1 mb-4 grey">4 min read | October 13,2022</p>
                 </div>
                 <div class="col-12 col-md-6">
-                    <a class="text-decoration-none link-dark line-height" href="noticia.html">
+                    <a class="text-decoration-none link-dark line-height" href="noticia.php">
                         <h3 class="line-height">Better Forms with Input Types, Auto-Complete, and Validation</h3>
                     </a>
                     <p class="p_header">Anima allows designers to create high-fidelity prototypes inside all design tools.</p>
                 </div>
             </div>
             <div class="col-12 col-md-6 pb-5 border-bottom border-1">
-                <img src="img/Image placeholder_estrellas.png" alt="">
+                <img src="wp-content/themes/NRB/img/Image placeholder_estrellas.png" alt="">
                 <div>
                     <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                        <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                        <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                     </button>
                 </div>
             <div>
@@ -71,10 +71,10 @@
             </div>
             <div class="row">
                 <div class="info_homepage_header col-6 pb-5">
-                    <img src="img/Image_placeholder_1.png" alt="">
+                    <img src="wp-content/themes/NRB/img/Image_placeholder_1.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                            <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                            <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                         </button>
                     </div>
                     <div>
@@ -89,10 +89,10 @@
                     </div>
                 </div>
                 <div class="col-6 pb-5">
-                    <img src="img/Image_placeholder_sharing.png" alt="">
+                    <img src="wp-content/themes/NRB/img/Image_placeholder_sharing.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                            <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                            <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                         </button>
                     </div>
                 <div>
@@ -107,10 +107,10 @@
                     </div>
                 </div>
                 <div class="info_homepage_header col-6 pb-5">
-                    <img src="img/finestres.png" alt="">
+                    <img src="wp-content/themes/NRB/img/finestres.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                            <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                            <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                         </button>
                     </div>
                     <div>
@@ -125,10 +125,10 @@
                     </div>
                 </div>
                 <div class="col-6 pb-5">
-                    <img src="img/porta.png" alt="">
+                    <img src="wp-content/themes/NRB/img/porta.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                            <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                            <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                         </button>
                     </div>
                 <div>
@@ -143,10 +143,10 @@
                     </div>
                 </div>
                 <div class="info_homepage_header col-6 pb-5">
-                    <img src="img/A.png" alt="">
+                    <img src="wp-content/themes/NRB/img/A.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                            <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                            <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                         </button>
                     </div>
                     <div>
@@ -161,10 +161,10 @@
                     </div>
                 </div>
                 <div class="col-6 pb-5">
-                    <img src="img/codi_html.png" alt="">
+                    <img src="wp-content/themes/NRB/img/codi_html.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
-                            <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
+                            <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
                         </button>
                     </div>
                 <div>

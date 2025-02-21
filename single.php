@@ -7,7 +7,7 @@
         <div class="row">
             <div class="title_homepage_header">
                 <div class="mb-5">
-                    <a class="grey text-decoration-none weight2" href="index.html">
+                    <a class="grey text-decoration-none weight2" href="index.php">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2"> <path d="M5 12l14 0"></path> <path d="M5 12l4 4"></path> <path d="M5 12l4 -4"></path> </svg> 
                         Back
                     </a>
@@ -22,7 +22,7 @@
                     <p class="m-1 grey">Lorenzo Hamers | Product designer</p>
                     <p class="m-1 grey mb-5">October 13 ,2022 | 4 min read</p>
                 </div>
-                <img class="" src="img/image-placeholder.png" alt="">
+                <img class="" src="/wp-content/themes/NRB/img/image-placeholder.png" alt="">
             </div>
             <div class="info_homepage_header d-flex justify-content-end pe-5">
                 <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -95,4 +95,4 @@
                 </div>
                 <div class="info_homepage_header border-bottom border-3 mb-5 mt-5"></div>
         </div>
-<?php getfooter() ?>
+<?php get_footer() ?>
