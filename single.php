@@ -5,7 +5,7 @@
         <!--DIV HOMEPAGE HEADER-->
 
         <div class="row">
-            <div class="title_homepage_header">
+            <div class="title_homepage_header col-12 mt-5 ps-4 title-description">
                 <div class="mb-5">
                     <a class="grey text-decoration-none weight2" href="index.php">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2"> <path d="M5 12l14 0"></path> <path d="M5 12l4 4"></path> <path d="M5 12l4 -4"></path> </svg> 
@@ -22,7 +22,7 @@
                     <p class="m-1 grey">Lorenzo Hamers | Product designer</p>
                     <p class="m-1 grey mb-5">October 13 ,2022 | 4 min read</p>
                 </div>
-                <img class="" src="/wp-content/themes/NRB/img/image-placeholder.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="/wp-content/themes/NRB/img/image-placeholder.png" alt="">
             </div>
             <div class="info_homepage_header d-flex justify-content-end pe-5">
                 <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -57,8 +57,8 @@
                 <h2 class="mb-4 spacing d-flex justify-content-center">Related posts</h2>
             </div>
             <div class="row">
-                <div class="info_homepage_header col-6 pb-5 mb-5">
-                    <img src="/wp-content/themes/NRB/img/manchas.png" alt="">
+                <div class="info_homepage_header col-12 col-md-6 pb-5">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="/wp-content/themes/NRB/img/manchas.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
@@ -75,8 +75,8 @@
                         <p class="p_header">How to add a Lottie animation to a prototype in Sketch, Adobe XD or Figma</p>
                     </div>
                 </div>
-                <div class="col-6 pb-5">
-                    <img src="/wp-content/themes/NRB/img/triangle.png" alt="">
+                <div class="col-12 col-md-6 pb-5">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="/wp-content/themes/NRB/img/triangle.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>

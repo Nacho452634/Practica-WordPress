@@ -5,9 +5,9 @@
         <!--DIV HOMEPAGE HEADER-->
 
         <div class="row">
-            <div class="title_homepage_header">
+            <div class="title_homepage_header col-12 mt-5 ps-4 title-description">
                 <h2 class="mb-4 spacing">Today's picks</h2>
-                <img src="/wp-content/themes/NRB/img/culture.png" alt="">
+                <img class="mt-4 mb-5 align-items-center img-fluid" src="/wp-content/themes/NRB/img/culture.png" alt="">
             </div>
             <div class="info_homepage_header">
                 <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">

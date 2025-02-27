@@ -5,9 +5,9 @@
         <!--DIV HOMEPAGE HEADER-->
 
         <div class="row">
-            <div class="title_homepage_header col-12 mt-5 ps-4">
+            <div class="title_homepage_header col-12 mt-5 ps-4 title-description">
                     <h2 class="mb-4 spacing">Today's picks</h2>
-                    <img class="mt-4 mb-5 align-items-center" src="wp-content/themes/NRB/img/Image placeholder (1).png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/Image placeholder (1).png" alt="">
             </div>
             <div class="info_homepage_header">
                 <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -30,7 +30,7 @@
     <!--DIV Header-->
         <div class="row">
             <div class="info_homepage_header col-12 col-md-6 pb-5 border-bottom border-1">
-                <img src="wp-content/themes/NRB/img/Image placeholder.png" alt="" >
+                <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/Image placeholder.png" alt="" >
                 <div>
                     <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                         <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
@@ -48,7 +48,7 @@
                 </div>
             </div>
             <div class="col-12 col-md-6 pb-5 border-bottom border-1">
-                <img src="wp-content/themes/NRB/img/Image placeholder_estrellas.png" alt="">
+                <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/Image placeholder_estrellas.png" alt="">
                 <div>
                     <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                         <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
@@ -71,7 +71,7 @@
             </div>
             <div class="row">
                 <div class="info_homepage_header col-12 col-md-6 pb-5">
-                    <img src="wp-content/themes/NRB/img/Image_placeholder_1.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/Image_placeholder_1.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
@@ -89,7 +89,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6 pb-5">
-                    <img src="wp-content/themes/NRB/img/Image_placeholder_sharing.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/Image_placeholder_sharing.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
@@ -107,7 +107,7 @@
                     </div>
                 </div>
                 <div class="info_homepage_header col-12 col-md-6 pb-5">
-                    <img src="wp-content/themes/NRB/img/finestres.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/finestres.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
@@ -125,7 +125,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6 pb-5">
-                    <img src="wp-content/themes/NRB/img/porta.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/porta.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
@@ -143,7 +143,7 @@
                     </div>
                 </div>
                 <div class="info_homepage_header col-12 col-md-6 pb-5">
-                    <img src="wp-content/themes/NRB/img/A.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/A.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
@@ -161,7 +161,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6 pb-5">
-                    <img src="wp-content/themes/NRB/img/codi_html.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="wp-content/themes/NRB/img/codi_html.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.php">Notícies</a>
