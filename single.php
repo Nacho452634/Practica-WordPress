@@ -58,7 +58,7 @@
             </div>
             <div class="row">
                 <div class="info_homepage_header col-6 pb-5 mb-5">
-                    <img src="img/manchas.png" alt="">
+                    <img src="/wp-content/themes/NRB/img/manchas.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="col-6 pb-5">
-                    <img src="img/triangle.png" alt="">
+                    <img src="/wp-content/themes/NRB/img/triangle.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
                             <a class="btn-img text-decoration-none" href="noticies.html">Notícies</a>

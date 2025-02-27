@@ -5,9 +5,9 @@
         <!--DIV HOMEPAGE HEADER-->
 
         <div class="row">
-            <div class="title_homepage_header col-12 col-md-6">
+            <div class="title_homepage_header col-12 mt-5 ps-4">
                     <h2 class="mb-4 spacing">Today's picks</h2>
-                    <img class="" src="wp-content/themes/NRB/img/Image placeholder (1).png" alt="">
+                    <img class="mt-4 mb-5 align-items-center" src="wp-content/themes/NRB/img/Image placeholder (1).png" alt="">
             </div>
             <div class="info_homepage_header">
                 <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -18,11 +18,11 @@
                 <p class="m-1 grey">Kate Glotova | Art Director | 5 min read</p>
                 <p class="m-1 grey">March 13 ,2022</p>
             </div>
-            <div class="info_homepage_header ms-2 mb-5 pb-3">
+            <div class="info_homepage_header col-md-8 pb-5">
                 <h3 class="mt-4 anima">Anima Introduces: Hotspots Hints</h3>
-                <p class="grey2">Write the blog description right here, Write the blog description right here, Write the blog description <br>
-                right here.Write the blog description right here, Write the blog description right here, Write the blog <br>
-                description right here. Write the blog description right here, Write the blog description right here, <br>
+                <p class="grey2">Write the blog description right here, Write the blog description right here, Write the blog description
+                right here.Write the blog description right here, Write the blog description right here, Write the blog
+                description right here. Write the blog description right here, Write the blog description right here,
                 Write the blog description right here.</p>
                 <a class="learn_more text-decoration-none" href="https://www.animaapp.com/" target="_blank"> Learn More </a>
             </div>
@@ -70,7 +70,7 @@
                 <h2 class="mb-5 ">Trending topics</h2>
             </div>
             <div class="row">
-                <div class="info_homepage_header col-6 pb-5">
+                <div class="info_homepage_header col-12 col-md-6 pb-5">
                     <img src="wp-content/themes/NRB/img/Image_placeholder_1.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -88,7 +88,7 @@
                         <p class="p_header">Hotspot Hints Help Guide Users Navigate Through a Prototype, Anima allows designers to create prototypes.</p>
                     </div>
                 </div>
-                <div class="col-6 pb-5">
+                <div class="col-12 col-md-6 pb-5">
                     <img src="wp-content/themes/NRB/img/Image_placeholder_sharing.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -106,7 +106,7 @@
                         <p class="p_header">Typography in advertising often reflects a company's brand. A brand may use typography to express its theme, personality, and message.</p>
                     </div>
                 </div>
-                <div class="info_homepage_header col-6 pb-5">
+                <div class="info_homepage_header col-12 col-md-6 pb-5">
                     <img src="wp-content/themes/NRB/img/finestres.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -124,7 +124,7 @@
                         <p class="p_header">Create dividers and drag screens to arrange your Anima projects.</p>
                     </div>
                 </div>
-                <div class="col-6 pb-5">
+                <div class="col-12 col-md-6 pb-5">
                     <img src="wp-content/themes/NRB/img/porta.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -142,7 +142,7 @@
                         <p class="p_header">Rather than having to jump into strict syntax rules, Python reads like English and is simple to understand for someone who's new to programming.</p>
                     </div>
                 </div>
-                <div class="info_homepage_header col-6 pb-5">
+                <div class="info_homepage_header col-12 col-md-6 pb-5">
                     <img src="wp-content/themes/NRB/img/A.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
@@ -160,7 +160,7 @@
                         <p class="p_header">Typography in advertising often reflects a company's brand. A brand may use typography to express its theme, personality, and message.</p>
                     </div>
                 </div>
-                <div class="col-6 pb-5">
+                <div class="col-12 col-md-6 pb-5">
                     <img src="wp-content/themes/NRB/img/codi_html.png" alt="">
                     <div>
                         <button type="button" class="btn btn-outline-primary boton rounded-pill m-3 btn-img">
